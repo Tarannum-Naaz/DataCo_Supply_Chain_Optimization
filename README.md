@@ -3,8 +3,11 @@
 ##  Project Overview
 
 This project analyzes supply chain data to identify patterns in sales, profitability, customer behavior, product performance and delivery operations.
-
 The project combines **Python, PostgreSQL and Power BI** to clean, analyze and visualize the data and provide actionable business insights.
+
+## Problem Statement
+
+The objective of this project is to identify key drivers of sales and profitability, understand customer and product performance and uncover delivery inefficiencies within the supply chain. The analysis aims to provide data-driven insights that can support better operational and business decisions.
 
 ---
 
